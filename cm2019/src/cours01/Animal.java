@@ -18,8 +18,8 @@ public class Animal {
 		chat.couleur = "rouge";
 		System.out.println(chat);
 		Animal chien = new Animal();
-		chien.age = 8;
-		
+		chien.age = 7;
+		chien.poids = 8; 
 		
 	}
 
